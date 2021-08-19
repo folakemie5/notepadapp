@@ -1,0 +1,1 @@
+This project is a notepad app used for taking down notes. It can be edited and also deleted. It's a simple app.
